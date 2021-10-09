@@ -34,6 +34,6 @@ Para este projeto foram utilizadas as cotaçes fornecidas por [Sanskar Hasija no
 ## Contato
 Alexandre do Sim – [LinkedIn](https://www.linkedin.com/in/alexandre-do-sim-86930414b/) – aledosim@yahoo.com.br
 
-[Ǵithub](https://github.com/Aledosim)
+[Github](https://github.com/Aledosim)
 
 [//]: https://einvestidor.estadao.com.br/investimentos/criptomoedas-que-mais-se-valorizaram-em-maio/
