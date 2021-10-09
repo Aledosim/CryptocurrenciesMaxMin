@@ -29,15 +29,12 @@ Para este projeto foram utilizadas as cotaçes fornecidas por [Sanskar Hasija no
 ## Acessando a análise
 
 1. Clone este repositório (para mais informações, veja este [tutorial](https://help.github.com/articles/cloning-a-repository/), em inglês).
-2. Os dados brutos estão no diretório [notebooks](notebooks) deste repositório. Você também pode fazer o download na [página do Kaggle](https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices).
+2. Os dados brutos estão no diretório [data](data) deste repositório. Você também pode fazer o download na [página do Kaggle](https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices).
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [Versão HTML](notebooks/Cryptocurrencies.html)
 
 
 ## Contato
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions o``nr if you are interested in contributing!
+Alexandre do Sim – [LinkedIn](https://www.linkedin.com/in/alexandre-do-sim-86930414b/) – aledosim@yahoo.com.br
+
+[Ǵithub](https://github.com/Aledosim)
