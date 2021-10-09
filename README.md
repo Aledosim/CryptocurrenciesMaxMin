@@ -16,7 +16,7 @@ O objetivo deste projeto é estudar as máximas valorizações e desvalorizaçõ
 * matplotlib
 
 ## Descrição do projeto
-Para este projeto foram utilizadas as cotaçes fornecidas por [Sanskar Hasija no Kaggle](https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices). Foi feita uma investigação sobre as máximas valorizações e desvalorizações como indicadores de valorizações e desvalorizações globais das criptomoedas. Através de histogramas e gráficos de espalhamento foram escolhidos períodos de maior interesse para a análise. A análise posterior da volatilidade, enquanto desvio padrão da rentabilidade histórica, e do rendimento das criptomoedas confirmaram a investigação.
+Para este projeto foram utilizadas as cotações fornecidas por [Sanskar Hasija no Kaggle](https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices). Foi feita uma investigação sobre as máximas valorizações e desvalorizações como indicadores de valorizações e desvalorizações globais das criptomoedas. Através de histogramas e gráficos de espalhamento foram escolhidos períodos de maior interesse para a análise. A análise posterior da volatilidade, enquanto desvio padrão da rentabilidade histórica, e do rendimento das criptomoedas complementam a investigação.
 
 ## Próximos passos
 
