@@ -1,7 +1,3 @@
-https://einvestidor.estadao.com.br/investimentos/criptomoedas-que-mais-se-valorizaram-em-maio/
-https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices
-
-
 # Cotações de criptomoedas
 
 #### -- Status do projeto: Completo
@@ -32,9 +28,12 @@ Para este projeto foram utilizadas as cotaçes fornecidas por [Sanskar Hasija no
 2. Os dados brutos estão no diretório [data](data) deste repositório. Você também pode fazer o download na [página do Kaggle](https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices).
 
 * [Versão HTML](notebooks/Cryptocurrencies.html)
+* [Versão PDF](notebooks/Cryptocurrencies.pdf)
 
 
 ## Contato
 Alexandre do Sim – [LinkedIn](https://www.linkedin.com/in/alexandre-do-sim-86930414b/) – aledosim@yahoo.com.br
 
 [Ǵithub](https://github.com/Aledosim)
+
+[//]: https://einvestidor.estadao.com.br/investimentos/criptomoedas-que-mais-se-valorizaram-em-maio/
