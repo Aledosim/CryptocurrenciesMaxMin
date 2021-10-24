@@ -32,7 +32,7 @@ Para este projeto foram utilizadas as cotações fornecidas por [Sanskar Hasija 
 
 
 ## Contato
-Alexandre do Sim – [LinkedIn](https://www.linkedin.com/in/alexandre-do-sim-86930414b/) – aledosim@yahoo.com.br
+Alexandre do Sim – [LinkedIn](https://www.linkedin.com/in/alexandre-do-sim/) – aledosim@yahoo.com.br
 
 [Github](https://github.com/Aledosim)
 
